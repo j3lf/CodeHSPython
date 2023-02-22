@@ -1,5 +1,5 @@
 # fill in this function to greet the user!
-user_info = "Eva 1000 drawing"
+user_info = "Info here"
 
 def greeting(user_info):
     greeting = user_info.split()
